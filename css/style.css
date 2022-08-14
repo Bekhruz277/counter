@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DynaPuff:wght@400;600;700&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DynaPuff:wght@400;600;700&family=Open+Sans:wght@300;400;500;600;700;800&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #636e72;
+  font-family: "Open Sans", sans-serif;
+}
+
+.wrapper {
+  max-width: 70vh;
+  margin: 0 auto;
+  margin-top: 150px;
+}
+.wrapper h1 {
+  color: #fff;
+  margin-left: 38px;
+}
+.wrapper .btns {
+  margin-top: 15px;
+}
+.wrapper .btns .dec {
+  width: 95px;
+  height: 35px;
+  border-radius: 8px;
+  border: none;
+  color: #fff;
+  font-size: 15px;
+  background-color: #2ed573;
+}
+.wrapper .btns .ref {
+  width: 75px;
+  height: 35px;
+  border-radius: 8px;
+  border: none;
+  background-color: #1e90ff;
+  color: #fff;
+  font-size: 15px;
+}
+.wrapper .btns .inc {
+  width: 95px;
+  height: 35px;
+  border-radius: 8px;
+  border: none;
+  background-color: #ff4757;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 300;
+}/*# sourceMappingURL=style.css.map */
